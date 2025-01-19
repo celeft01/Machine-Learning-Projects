@@ -24,8 +24,8 @@ This project explores essential data preprocessing techniques, data visualizatio
 - **Data Preparation**: Address missing values, apply feature scaling, and encode categorical variables.
 - **Visualization**: Use plots and charts to analyze data distributions and relationships.
 - **Models Implemented**:
-  - **Classification**: Logistic Regression, Decision Trees, Support Vector Machines (SVMs).
-  - **Regression**: Linear Regression, Polynomial Regression.
+  - **Classification**: Logistic Regression.
+  - **Regression**: Linear Regression.
 
 ### Files
 - Code and documentation are available in the `Data Prep. & Visualization Classification & Regression` directory.
@@ -36,13 +36,12 @@ This project explores essential data preprocessing techniques, data visualizatio
 
 ### Overview
 
-This project implements clustering algorithms and techniques for identifying anomalies within datasets.
+This project implements clustering algorithm K-means from scratch, and techniques for identifying anomalies within datasets.
 
 ### Key Highlights
 - **Clustering Techniques**:
   - K-Means.
-  - Hierarchical Clustering.
-- **Anomaly Detection**: Use statistical methods and machine learning algorithms to identify outliers, in order to detect frauds within thousands of legitimate credit-card transactions using a transactions dataset.
+- **Anomaly Detection**: Use Isolation Forest and OneClassSVM to identify outliers, in order to detect frauds within thousands of legitimate credit-card transactions using a transactions dataset.
 
 ### Files
 - Code and supporting documents are located in the `Clustering & Anomaly Detection` directory.
@@ -56,12 +55,11 @@ This project implements clustering algorithms and techniques for identifying ano
 This project focuses on selecting optimal models, exploring tree-based algorithms, and utilizing kernel methods.
 
 ### Key Highlights
-- **Model Selection**: Use cross-validation and Grid Search for hyperparameter tuning.
-- **Tree-Based Methods**:
-  - Random Forests.
-  - Gradient Boosting Machines.
-- **Kernel Methods**:
-  - SVM with linear and non-linear kernels.
+- **Model Selection**: Use Grid Search and Randomized Search for hyperparameter tuning.
+- **Methods**:
+  - Random Forest Classifier.
+  - XGB Classifier.
+  - Bagging Classifier.
 
 ### Files
 - Explore this project in the `Model Selection, Trees & Kernels` directory.
@@ -72,15 +70,11 @@ This project focuses on selecting optimal models, exploring tree-based algorithm
 
 ### Overview
 
-Build and train neural network models for image classification and time-series forecasting tasks.
+Build a neural network from scratch that is able to solve a binary classification problem.
 
 ### Key Highlights
 - **Architectures**:
   - Feedforward Neural Networks (FNNs).
-  - Convolutional Neural Networks (CNNs).
-- **Applications**:
-  - Image classification.
-  - Predicting sequential data trends.
 
 ### Files
 - Relevant code and analysis are located in the `Neural Networks` directory.
@@ -96,9 +90,6 @@ Implement reinforcement learning algorithms to solve decision-making problems.
 ### Key Highlights
 - **Techniques**:
   - Q-Learning.
-  - Deep Q-Networks (DQN).
-- **Environments**:
-  - Use OpenAI Gym environments for training and testing.
 
 ### Files
 - All related materials are found in the `Reinforcement Learning` directory.
