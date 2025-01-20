@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains a collection of machine learning projects showcasing a variety of techniques and approaches within the field. Each project includes well-documented code, methodologies, and analyses to help understand key concepts and applications.
+This repository contains a collection of machine learning projects showcasing a variety of techniques and approaches within the field. Each project includes code and relevant files to help understand key concepts and applications.
 
 ---
 
