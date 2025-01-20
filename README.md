@@ -44,7 +44,7 @@ This project implements clustering algorithm K-means from scratch, and technique
 - **Anomaly Detection**: Use Isolation Forest and OneClassSVM to identify outliers, in order to detect frauds within thousands of legitimate credit-card transactions using a transactions dataset.
 
 ### Files
-- Code and supporting documents are located in the `Clustering & Anomaly Detection` directory.
+- Code, datasets and supporting documents are located in the `Clustering & Anomaly Detection` directory.
 
 ---
 
